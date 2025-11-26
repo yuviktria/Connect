@@ -3,43 +3,45 @@ Connect is an enterprise communication system redesigned from the ground up with
 It goes beyond basic messaging by integrating automation, real-time insights, and context-aware AI tools to enhance productivity for both administrators and employees.
 ---
 
-# 🌟 Why Connect is Different  
+# 🌟 Why Connect is Different
 Traditional chat apps only help users *send messages*.  
 **Connect helps users *think*, *organize*, and *act* with built-in intelligent automation.**
 
 - Automates user onboarding  
 - Summarizes long chats or documents  
-- Generates contextual , similar tone and style replies.
-- Provides structured Playbooks from chats
+- Generates contextual , similar tone and style replies  
+- Provides structured Playbooks from chats  
 - Helps employees with queries directly in chat  
 ---
+
 # 🧠 Intelligent Features for Administrators
+
 ## **AI Onboarding**
-Instead of manually creating accounts, the admin can provide a list of new hires to the AI webhook.
-The AI system will automatically:
+Instead of manually creating accounts, the admin can provide a list of new hires to the AI webhook.  
+The AI system will automatically:  
 ✔ Process and validate the data  
 ✔ Create user accounts  
 ✔ Generate secure temporary passwords  
 ✔ Send automatic welcome emails  
 
 ### **Admin Panel Overview**
-![Admin overview](ScreenShots_connect/AdminPage/AdminPageOverview.png)
+![Admin overview](ScreenShots_connect/Admin Page/AdminPageOverview.png)
 
 ### **AI Onboarding (Manual Entry)**
-![Manual onboarding](ScreenShots_connect/AdminPage/ManualOnboard.png)
+![Manual onboarding](ScreenShots_connect/Admin Page/ManualOnboard.png)
 
-### **AI-Onboard **
-![AI Onboard](ScreenShots_connect/AdminPage/AIOnboard.png)
+### **AI-Onboard**
+![AI Onboard](ScreenShots_connect/Admin Page/AIOnboard.png)
 
 ### **Generated Welcome Email**
-![Email Came](ScreenShots_connect/AdminPage/EmailCame.png)
+![Email Came](ScreenShots_connect/Admin Page/EmailCame.png)
 
 ### **System Display Board**
-![Display board](ScreenShots_connect/AdminPage/DisplayBoard.png)
+![Display board](ScreenShots_connect/Admin Page/DisplayBoard.png)
 ---
 
 # 🔐 Secure Login Process
-The login system ensures complete security through a controlled first-login flow.
+
 ### Steps:
 1. **User receives temporary credentials via email**
 2. **Enters temporary password**
@@ -55,14 +57,17 @@ The login system ensures complete security through a controlled first-login flow
 ### **Restart After Password Update**
 ![Restart Credentials](ScreenShots_connect/Login/RestartWithnewCredentials.png)
 ---
+
 # 💻 Connect GUI Walkthrough  
 Connect’s interface is divided into intuitive sections.
 
 ## **📌 Full GUI Overview**
 ![GUI Overview](ScreenShots_connect/Connect_Gui/OverViewGUI.png)
 ---
+
 # 👤 Profile Section  
 Users can view and update their personal information.
+
 ![Profile 1](ScreenShots_connect/Connect_Gui/ProfileSection/Profile.png)
 
 ![Profile 2](ScreenShots_connect/Connect_Gui/ProfileSection/Profile2.png)
@@ -82,11 +87,12 @@ Manage colleague connections with 3 views:
 ---
 
 # 💬 Chat Section  
-Real-time messaging with advanced features:
+Real-time messaging with advanced features:  
 ✔ Online/offline indicator  
 ✔ Search messages  
 ✔ Unread messages  
 ✔ File sharing with preview  
+
 ### **Search Feature**
 ![Search](ScreenShots_connect/Connect_Gui/ChatSection/SearchFeature.png)
 
@@ -100,7 +106,7 @@ Real-time messaging with advanced features:
 ![Preview](ScreenShots_connect/Connect_Gui/ChatSection/FilePreviewinChat.png)
 
 ### **Receive File**
-![Receive File]( ScreenShots_connect_connect\Connect_Gui\ChatSection\SaveFile.png)
+![Receive File](ScreenShots_connect/Connect_Gui/ChatSection/SaveFile.png)
 
 ### **Unread Message Indicator**
 ![Unread](ScreenShots_connect/Connect_Gui/ChatSection/UnreadFeature.png)
@@ -109,7 +115,6 @@ Real-time messaging with advanced features:
 # 🤖 AI Tools (AutoAI, Playbook, Summarize, Helper)
 
 Connect integrates several AI assistants within chat.
----
 
 ## **AutoAI**
 Suggests responses or tasks based on message context.
@@ -120,6 +125,7 @@ Suggests responses or tasks based on message context.
 
 ![AutoAI Response](ScreenShots_connect/Connect_Gui/AIOutputs/AutoAIResponse.png)
 ---
+
 ## **Playbook**
 Provides guided patterns, structured actions, or predefined workflows.
 
@@ -128,10 +134,11 @@ Provides guided patterns, structured actions, or predefined workflows.
 ![Playbook Output](ScreenShots_connect/Connect_Gui/AIOutputs/PlayBookOutputDisplay.png)
 
 ![Playbook PDF](ScreenShots_connect/Connect_Gui/AIOutputs/PlayBookPdfOutput.png)
-
 ---
+
 ## **Summarize**
 Provides summary of the whole chat thread with key points.
+
 ![Summarize Clicked](ScreenShots_connect/Connect_Gui/AIOutputs/SummarizeClick.png)
 
 ![Summarize Output](ScreenShots_connect/Connect_Gui/AIOutputs/SummarizeOutput.png)
@@ -143,18 +150,20 @@ Ask direct questions — get instant answers.
 
 ![Helper Query](ScreenShots_connect/Connect_Gui/AIOutputs/HelperQuery1.png)
 
-![Helper Output](ScreenShots_connect/Connect_Gui/AIOutputs/HelperOutput1.png)
+![Helper Output 1](ScreenShots_connect/Connect_Gui/AIOutputs/HelperOutput1.png)
 
-![Helper Query](ScreenShots_connect/Connect_Gui/AIOutputs/HelperQuery2.png)
+![Helper Query 2](ScreenShots_connect/Connect_Gui/AIOutputs/HelperQuery2.png)
 
 ![Helper Output 2](ScreenShots_connect/Connect_Gui/AIOutputs/HelperOutput2.png)
 ---
+
 # 📁 FileMania — AI File Processing  
 
 Upload a file and ask the AI to:
 - Summarize  
 - Generate a report  
 - Extract key points  
+
 ### **File Dropped**
 ![Dropped](ScreenShots_connect/Connect_Gui/FileMania/FileManiaFileDropped.png)
 
@@ -172,18 +181,18 @@ Upload a file and ask the AI to:
 ---
 
 # 🔒 Security & Protocol
-
-Connect uses **TLS/SSL encryption** for client-server communication ensuring:
+Connect uses **TLS/SSL encryption** for client-server communication ensuring:  
 - All messages remain private  
 - File transfers are secure  
 - Login credentials are encrypted in transit  
 ---
 
 # 🗂 Data Persistence  
-Connect securely stores:
+Connect securely stores:  
 - User accounts  
 - Friend lists  
 - Chat history  
 - File metadata  
+
 This ensures data remains intact even if the system restarts.
 ---
