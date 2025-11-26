@@ -25,19 +25,20 @@ The AI system will automatically:
 ✔ Send automatic welcome emails  
 
 ### **Admin Panel Overview**
-![Admin overview](ScreenShots_connect/Admin Page/AdminPageOverview.png)
+![Admin overview](ScreenShots_connect/AdminPage/AdminPageOverview.png)
 
 ### **AI Onboarding (Manual Entry)**
-![Manual onboarding](ScreenShots_connect/Admin Page/ManualOnboard.png)
+![Manual onboarding](ScreenShots_connect/AdminPage/ManualOnboard.png)
 
 ### **AI-Onboard**
-![AI Onboard](ScreenShots_connect/Admin Page/AIOnboard.png)
+![AI Onboard](ScreenShots_connect/AdminPage/AIOnboard.png)
 
 ### **Generated Welcome Email**
-![Email Came](ScreenShots_connect/Admin Page/EmailCame.png)
+![Email Came](ScreenShots_connect/AdminPage/EmailCame.png)
 
 ### **System Display Board**
-![Display board](ScreenShots_connect/Admin Page/DisplayBoard.png)
+![Display board](ScreenShots_connect/AdminPage/DisplayBoard.png)
+
 ---
 
 # 🔐 Secure Login Process
@@ -56,6 +57,7 @@ The AI system will automatically:
 
 ### **Restart After Password Update**
 ![Restart Credentials](ScreenShots_connect/Login/RestartWithnewCredentials.png)
+
 ---
 
 # 💻 Connect GUI Walkthrough  
@@ -71,6 +73,7 @@ Users can view and update their personal information.
 ![Profile 1](ScreenShots_connect/Connect_Gui/ProfileSection/Profile.png)
 
 ![Profile 2](ScreenShots_connect/Connect_Gui/ProfileSection/Profile2.png)
+
 ---
 
 # 🤝 Friends Section  
@@ -84,6 +87,7 @@ Manage colleague connections with 3 views:
 
 ### **Add Friend**
 ![Add Friend](ScreenShots_connect/Connect_Gui/FriendSection/AddFriend.png)
+
 ---
 
 # 💬 Chat Section  
@@ -110,6 +114,7 @@ Real-time messaging with advanced features:
 
 ### **Unread Message Indicator**
 ![Unread](ScreenShots_connect/Connect_Gui/ChatSection/UnreadFeature.png)
+
 ---
 
 # 🤖 AI Tools (AutoAI, Playbook, Summarize, Helper)
@@ -124,6 +129,7 @@ Suggests responses or tasks based on message context.
 ![AutoAI Time Prompt](ScreenShots_connect/Connect_Gui/AIOutputs/AutoAiTimePrompt.png)
 
 ![AutoAI Response](ScreenShots_connect/Connect_Gui/AIOutputs/AutoAIResponse.png)
+
 ---
 
 ## **Playbook**
@@ -134,6 +140,7 @@ Provides guided patterns, structured actions, or predefined workflows.
 ![Playbook Output](ScreenShots_connect/Connect_Gui/AIOutputs/PlayBookOutputDisplay.png)
 
 ![Playbook PDF](ScreenShots_connect/Connect_Gui/AIOutputs/PlayBookPdfOutput.png)
+
 ---
 
 ## **Summarize**
@@ -155,6 +162,7 @@ Ask direct questions — get instant answers.
 ![Helper Query 2](ScreenShots_connect/Connect_Gui/AIOutputs/HelperQuery2.png)
 
 ![Helper Output 2](ScreenShots_connect/Connect_Gui/AIOutputs/HelperOutput2.png)
+
 ---
 
 # 📁 FileMania — AI File Processing  
@@ -178,6 +186,7 @@ Upload a file and ask the AI to:
 
 ### **Summarize Output**
 ![Summarize Output](ScreenShots_connect/Connect_Gui/FileMania/FileManiaSummarizeOutput.png)
+
 ---
 
 # 🔒 Security & Protocol
@@ -196,3 +205,4 @@ Connect securely stores:
 
 This ensures data remains intact even if the system restarts.
 ---
+
